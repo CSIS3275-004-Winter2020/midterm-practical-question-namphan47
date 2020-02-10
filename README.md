@@ -1,4 +1,4 @@
 # midterm_template
 
-namphan
+nam phan
 phana1@student.douglascollege.ca
